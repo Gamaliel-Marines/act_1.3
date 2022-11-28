@@ -1,0 +1,7 @@
+Los algoritmos de ordenamiento son muy importantes y tienen demasiadas funciones, 
+así como también facilitan como lo dice su nombre el ordenamiento de mucha informacion. 
+
+Estos algoritmos nos permiten optimizar el tiempo de trabajo y las lineas de codigo.
+
+Una situacion en la que tambien se pudieran utilizar los algoritmos de ordenamiento
+pudiera ser en un porta-aviones del ejercito.
