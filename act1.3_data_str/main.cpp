@@ -20,17 +20,17 @@ int main(int argc, char* argv[]) {
 	ofstream outputFile;
 
 	if(argc != 3){
-		cout << "Invocacion Incorrecta!" << endl;
+		cout << "Incorrect invocation!" << endl;
 		return -1;
 	}
 	inputFile.open(argv[1]);
 	if(inputFile.fail()){
-		cout << "No se puede abrir el archivo de entrada" << endl;
+		cout << "Could not open input file" << endl;
 		return -1;
 	}
 	outputFile.open(argv[2]);
 	if(outputFile.fail()){
-		cout << "No se puede abrir el archivo de salida" << endl;
+		cout << "Could not open output file" << endl;
 		return -1;
 	}
 
